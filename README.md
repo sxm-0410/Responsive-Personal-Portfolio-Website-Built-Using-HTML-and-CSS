@@ -1,4 +1,4 @@
-# Responsive-Personal-Portfolio-Website-Built-Using-HTML-and-CSS
+Responsive-Personal-Portfolio-Website-Built-Using-HTML-and-CSS
 Responsive Personal Portfolio Website Built Using HTML and CSS.
 Built this under a month learning for a youtube video and a very helpful HTML Cheat Sheet that i found off of reddit.
 Youtube links: 
@@ -7,3 +7,5 @@ Youtube links:
 
 HTML Cheat Sheet:
 1. https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html
+
+Open the 'Responsive Personal Portfoio Website' folder to find my HTML code
