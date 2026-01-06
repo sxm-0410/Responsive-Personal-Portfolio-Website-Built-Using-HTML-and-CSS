@@ -8,5 +8,5 @@ Youtube links:
 HTML Cheat Sheet:
 1. https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html
 
-Open the 'Responsive Personal Portfoio Website' folder to find my HTML code
-I've embedded the CSS styling code in the mail HTML file instead of making separate files after completion.
+Open the 'Responsive Personal Portfoio Website' folder to find my HTML code.
+I've embedded the CSS styling code in the main HTML file instead of making separate files after completion.
